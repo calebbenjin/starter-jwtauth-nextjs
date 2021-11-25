@@ -1,0 +1,44 @@
+.form {
+  height: 87vh;
+  width: 100%;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.container {
+  width: 400px;
+  padding: 2rem;
+  background: #fff;
+  border-radius: 6px;
+  box-shadow: 1px -1px 14px rgba(0,0,0,0.1);
+}
+
+.formControl {
+  margin-top: 1rem;
+}
+
+.formhead {
+  text-align: center;
+  margin-bottom: 1rem;
+}
+
+.formhead .title {
+  margin: 0 !important;
+  color: #333;
+}
+
+.subtitle {
+  font-size: 0.8rem;
+}
+
+.footer {
+  text-align: center;
+  font-size: 0.8rem;
+  margin-top: 1rem;
+}
+
+.footer span {
+  font-weight: 700;
+  color: #1c8eda8f;
+}
